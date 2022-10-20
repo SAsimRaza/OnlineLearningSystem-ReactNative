@@ -1,10 +1,6 @@
 # Online Learning System app
 
 This project for mobile application development course.
-Group Members:
-**Syed Asim Raza Naqvi**,
-**Syed Kumail Ali Naqvi**,
-**Haseeb Ahmed**
 
 # Features
 User can signUp, and SignIn.
